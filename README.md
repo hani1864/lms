@@ -1,2 +1,2 @@
 # lms
-mu school python project
+my school python project
